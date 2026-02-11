@@ -101,7 +101,10 @@ The raw data is not included in this repo. You must download it manually:
 1. Download the dataset from [Kaggle: Diabetes 130-US Hospitals](https://www.kaggle.com/datasets/brandao/diabetes).
 2. Unzip the file.
 3. Move `diabetic_data.csv` into the `data/` folder.
-    
+   
+```bash
+python src/inference.py data/diabetic_data.csv
+```
 ### 3. Running Inference
 
 To predict the readmission probability for a new batch of patients:
