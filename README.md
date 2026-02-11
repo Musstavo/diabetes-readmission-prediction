@@ -98,14 +98,9 @@ pip install -r requirements.txt
 
 The raw data is not included in this repo. You must download it manually:
 
-    Download the dataset from Kaggle: [Kaggle: Diabetes 130-US Hospitals](https://www.kaggle.com/datasets/brandao/diabetes).
-    
-    Unzip the file.
-    Move diabetic_data.csv into the data/ folder
-
-    diabetes-readmission-prediction/
-    ├── data/
-    │   └── diabetic_data.csv  <-- Place file here
+1. Download the dataset from [Kaggle: Diabetes 130-US Hospitals](https://www.kaggle.com/datasets/brandao/diabetes).
+2. Unzip the file.
+3. Move `diabetic_data.csv` into the `data/` folder.
     
 ### 3. Running Inference
 
