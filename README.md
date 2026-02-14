@@ -116,8 +116,8 @@ The notebooks are managed via Jupytext. To run the full training pipeline:
 ```bash
 
 # Sync the Python script to a Notebook format
-jupytext --sync notebooks/final_evaluation.py
+jupytext --sync notebooks/notebook_easy_to_edit.py
 
 # Open in Jupyter or VS Code to run interactively
-jupyter notebook notebooks/final_evaluation.ipynb
+jupyter notebook notebooks/notebook.ipynb
 ```
