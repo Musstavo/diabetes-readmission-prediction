@@ -121,15 +121,3 @@ jupytext --sync notebooks/final_evaluation.py
 # Open in Jupyter or VS Code to run interactively
 jupyter notebook notebooks/final_evaluation.ipynb
 ```
-
-👨‍💻 Author
-
-Mohammad Tantour
-
-    Education: AI & Data Science Student @ Al Hussein Technical University (HTU)
-
-    Focus: Medical Computer Vision & Bioinformatics
-
-    Contact: GitHub
-
-    Built with Neovim, Ghostty, and a lot of caffeine. ☕
